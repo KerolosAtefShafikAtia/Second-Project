@@ -1,0 +1,5 @@
+_id,fullName,userName,password,role,studentCourses[0].courseId,studentCourses[0].courseName,studentCourses[0].degree,studentCourses[0].courseDate
+65e1e862688c7e49e99afbca,kerolos atef,kerolos,$2b$11$ZVgD5h.rBaM..xrYNAEp0eocymY9LPRZEFatKL4qp4shA.9NprtUm,admin,,,,
+65e1e9bc688c7e49e99afbcb,Ahmed Salah,Ahmed,$2b$11$ylRJCafpTncwWlkjXNS/YeJM5MR5S1zIL/S4JV0Gz1EgKuuTNrcgG,student,65e213355d8f60046195e51d,php laravel,99,3-1-2024
+65e1eb6c4cfbd795616f6800,Mohamed Khalid,Mohamed,$2b$11$ANlUxDWFECoOUrX4EuD1yuBJzXtHw4JakovTZlORV39AguIjbSXNq,student,,,,
+65e1ed314cfbd795616f6801,mona,mona,$2b$11$t4ivC/G5Ea1racpu4kHoa.dry5kb.xPKZ/R64LSZntzF4Y3F0Ilty,student,,,,
